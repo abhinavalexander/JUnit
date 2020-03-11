@@ -21,7 +21,7 @@ public class Calculator {
 		}
 public static void main(String[] args) {
 	Calculator obj=new Calculator();
-	obj.add(20, 30);
+	
 	double result=obj.add(20, 30);
 	System.out.println(result);
 }
